@@ -15,5 +15,5 @@ Folders:
 	- CNN: confusion matrix of all the features trained with the CNN, with both batch_size = 64 and =128, a plot with loss and accuracy related to that feature and batch size and a plot with just the accuracy.
 	- VGG: confusion matrix of all the features trained using a customized version of the VGG, with both batch_size = 64 and =128, a plot with loss and accuracy related to that feature and batch size and a plot with just the accuracy.
 
-- Train: it contains all the extracted features and the labels related to the training set.
+- Train: it contains extracted training labels and only rmsTraining features because the others file are too large to be uploaded. If you need them, please contact me
 - Test: it contains all the extracted features and the labels related to the test set split into 5 different folders.
