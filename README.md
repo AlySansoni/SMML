@@ -1,4 +1,5 @@
-# SMML-
+# SMML- 
+This Project was done at University of Milan for the exam "Statistical Methods for Machine Learning"
 Urban Sound Classification with Neural Networks
 
 
